@@ -1,0 +1,10 @@
+{
+  "name": "last-fire-relay",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Room-code relay and public lobby list for Last Fire multiplayer",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
